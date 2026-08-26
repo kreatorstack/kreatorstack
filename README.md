@@ -14,7 +14,7 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 
 📚 **Aprenda a criar eBooks profissionais:**
 - [EPUB Workflow com Markdown e Pandoc ↗](https://liberstack.github.io/pandoc)
----
+
 📚 **Aprenda programação do zero:**
 - [Tutorial Git, GitHub e primeiro commit ↗](https://liberstack.github.io/git)
 
