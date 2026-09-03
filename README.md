@@ -1,6 +1,6 @@
 # Liberstack
 
-Sou Web Developer focado na criação de aplicações web com JavaScript e Python. Desenvolvo SPAs, interfaces e integrações com APIs, buscando soluções práticas e funcionais. Tenho interesse em transformar ideias em produtos digitais bem estruturados, combinando desenvolvimento e experimentação.
+Meu nome é Guilherme Ribeiro. Web Developer focado na criação de aplicações web com JavaScript e Python. Desenvolvo SPAs, interfaces e integrações com APIs, buscando soluções práticas e funcionais. Tenho interesse em transformar ideias em produtos digitais bem estruturados, combinando desenvolvimento e experimentação.
 
 
 
