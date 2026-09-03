@@ -14,7 +14,7 @@ Sou Web Developer focado na criação de aplicações web com JavaScript e Pytho
 
 - 📚 **Aprenda a criar eBooks profissionais:** [EPUB Workflow com Markdown e Pandoc ↗](https://liberstack.github.io/pandoc)
 
-- 📚 **Aprenda programação do zero:** [Tutorial Git, GitHub e primeiro commit ↗](https://liberstack.github.io/git)
+- 📚 **Aprenda Git e Versionamento de Código:** [Tutorial Git, GitHub e primeiro commit ↗](https://liberstack.github.io/git)
 
 
 
